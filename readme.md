@@ -63,7 +63,7 @@
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/psychoh4x0r/ai-cybersec-research.git
+   git clone https://github.com/PsychoH4x0r/AI-CYBERSECURITY-RESEARCH
    cd ai-cybersec-research
    ```
 
