@@ -149,22 +149,6 @@ Setelah menjalankan script, kamu akan masuk ke menu interaktif dengan opsi berik
 
 ---
 
-## 📂 Struktur Direktori
-
-```plaintext
-ai-cybersec-research/
-├── unknown1337.py           # Script utama
-├── api_config.json          # Konfigurasi API key
-├── vulnerability_database.json # Database kerentanan lokal
-├── network_topology.json    # Data topologi jaringan
-├── ~/research/
-│   ├── tools/               # Alat pentesting
-│   ├── results/             # Visualisasi dan hasil analisis
-│   ├── wordlists/           # Wordlist untuk enumeration
-│   ├── scripts/             # Script tambahan
-│   ├── reports/             # Laporan JSON dan HTML
-```
-
 ---
 
 ## 🛠️ Pemecahan Masalah
